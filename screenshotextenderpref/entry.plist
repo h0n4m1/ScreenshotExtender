@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "ScreenshotExtenderPref";
+		cell = PSLinkCell;
+		detail = "ScreenshotExtenderPrefListController";
+		icon = "icon.png";
+		isController = 1;
+		label = "Screenshot Extender";
+	};
+}

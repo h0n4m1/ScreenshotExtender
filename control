@@ -1,0 +1,10 @@
+Package: com.honami.screenshotextender
+Name: Screenshot Extender
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Customize your screenshot!
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: honami <h0n4m1chan+screenshotextender@gmail.com>
+Icon: file:///Library/PreferenceBundles/ScreenshotExtenderPref.bundle/icon-table.png
+Section: Tweaks
